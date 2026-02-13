@@ -1,0 +1,10 @@
+# Temporäre Dateien
+*.tmp
+*.tmp2
+.DS_Store
+
+# Backup-Dateien (außer das initiale Backup)
+ISO27001_Controls_Explorer_backup.html
+
+# Claude-Verzeichnis
+.claude/
